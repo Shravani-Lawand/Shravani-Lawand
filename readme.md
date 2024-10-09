@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm SHRAVANI-LAWAND</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Computer Engineer | Learner | Coder
 </p>
 
 <div align="center">
@@ -32,8 +32,8 @@
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <a href="https://github.com/SHRAVANI-LAWAND" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSHRAVANI-LAWAND&subtitle=SHRAVANI-LAWAND&size=square" alt="SHRAVANI-LAWAND">
   </a>
 </td>
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=SHRAVANI-LAWAND&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -56,57 +56,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRAVANI-LAWAND&custom_title=SHRAVANI-LAWAND's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRAVANI-LAWAND&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=SHRAVANI-LAWAND&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="SHRAVANI-LAWAND's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="SHRAVANI-LAWAND's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -114,8 +114,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+<a href="https://github.com/SHRAVANI-LAWAND">
+    <img src="https://ghchart.rshah.org/SHRAVANI-LAWAND" alt="SHRAVANI-LAWAND's GitHub Contribution Chart">
 </a>
 
 
@@ -126,26 +126,26 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/SHRAVANI-LAWAND?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="SHRAVANI-LAWAND's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/SHRAVANI-LAWAND?theme=dark" alt="SHRAVANI-LAWAND's GitHub Stats">
 </details>
 
 <br>
 
-### RAFIKSHA/README.md activity
+### SHRAVANI-LAWAND/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
+<!-- [![Forkers repo roster for @SHRAVANI-LAWAND/SHRAVANI-LAWAND](https://reporoster.com/forks/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for SHRAVANI-LAWAND&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#SHRAVANI-LAWAND/SHRAVANI-LAWAND&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SHRAVANI-LAWAND/SHRAVANI-LAWAND&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -154,7 +154,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHRAVANI-LAWAND&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -232,7 +232,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/SHRAVANI-LAWANDh2272?border=0&radius=20"/>
 </p>
 
 
@@ -585,8 +585,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <a href="https://github.com/SHRAVANI-LAWAND" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSHRAVANI-LAWAND&subtitle=SHRAVANI-LAWAND&size=square" alt="SHRAVANI-LAWAND">
   </a>
 </td>
 
@@ -598,7 +598,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=SHRAVANI-LAWAND&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -609,57 +609,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRAVANI-LAWAND&custom_title=SHRAVANI-LAWAND's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRAVANI-LAWAND&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=SHRAVANI-LAWAND&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="SHRAVANI-LAWAND's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="SHRAVANI-LAWAND's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -667,8 +667,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+<a href="https://github.com/SHRAVANI-LAWAND">
+    <img src="https://ghchart.rshah.org/SHRAVANI-LAWAND" alt="SHRAVANI-LAWAND's GitHub Contribution Chart">
 </a>
 
 
@@ -679,26 +679,26 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/SHRAVANI-LAWAND?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="SHRAVANI-LAWAND's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/SHRAVANI-LAWAND?theme=dark" alt="SHRAVANI-LAWAND's GitHub Stats">
 </details>
 
 <br>
 
-### RAFIKSHA/README.md activity
+### SHRAVANI-LAWAND/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
+<!-- [![Forkers repo roster for @SHRAVANI-LAWAND/SHRAVANI-LAWAND](https://reporoster.com/forks/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for SHRAVANI-LAWAND&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#SHRAVANI-LAWAND/SHRAVANI-LAWAND&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SHRAVANI-LAWAND/SHRAVANI-LAWAND&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -707,7 +707,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHRAVANI-LAWAND&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -785,7 +785,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/SHRAVANI-LAWANDh2272?border=0&radius=20"/>
 </p>
 
 
@@ -1181,8 +1181,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:SHRAVANI-LAWANDh3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=SHRAVANI-LAWANDh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -1221,8 +1221,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <a href="https://github.com/SHRAVANI-LAWAND" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSHRAVANI-LAWAND&subtitle=SHRAVANI-LAWAND&size=square" alt="SHRAVANI-LAWAND">
   </a>
 </td>
 
@@ -1234,7 +1234,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=SHRAVANI-LAWAND&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -1245,57 +1245,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRAVANI-LAWAND&custom_title=SHRAVANI-LAWAND's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRAVANI-LAWAND&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=SHRAVANI-LAWAND&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="SHRAVANI-LAWAND's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="SHRAVANI-LAWAND's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -1303,8 +1303,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+<a href="https://github.com/SHRAVANI-LAWAND">
+    <img src="https://ghchart.rshah.org/SHRAVANI-LAWAND" alt="SHRAVANI-LAWAND's GitHub Contribution Chart">
 </a>
 
 
@@ -1315,26 +1315,26 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/SHRAVANI-LAWAND?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="SHRAVANI-LAWAND's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/SHRAVANI-LAWAND?theme=dark" alt="SHRAVANI-LAWAND's GitHub Stats">
 </details>
 
 <br>
 
-### RAFIKSHA/README.md activity
+### SHRAVANI-LAWAND/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
+<!-- [![Forkers repo roster for @SHRAVANI-LAWAND/SHRAVANI-LAWAND](https://reporoster.com/forks/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for SHRAVANI-LAWAND&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#SHRAVANI-LAWAND/SHRAVANI-LAWAND&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SHRAVANI-LAWAND/SHRAVANI-LAWAND&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -1343,7 +1343,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHRAVANI-LAWAND&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -1421,7 +1421,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/SHRAVANI-LAWANDh2272?border=0&radius=20"/>
 </p>
 
 
@@ -1817,8 +1817,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:SHRAVANI-LAWANDh3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=SHRAVANI-LAWANDh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -1837,7 +1837,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahr<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+⭐️ From [SHRAVANI-LAWAND](https://github.com/SHRAVANI-LAWAND) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/Shahr<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
 
 
@@ -1871,8 +1871,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/RAFIKSHA" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FRAFIKSHA&subtitle=RAFIKSHA&size=square" alt="RAFIKSHA">
+  <a href="https://github.com/SHRAVANI-LAWAND" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSHRAVANI-LAWAND&subtitle=SHRAVANI-LAWAND&size=square" alt="SHRAVANI-LAWAND">
   </a>
 </td>
 
@@ -1884,7 +1884,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=RAFIKSHA&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=SHRAVANI-LAWAND&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -1895,57 +1895,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RAFIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RAFIKSHA&custom_title=RAFIKSHA's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRAVANI-LAWAND&custom_title=SHRAVANI-LAWAND's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAFIKSHA&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRAVANI-LAWAND&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=RAFIKSHA&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="RAFIKSHA's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=SHRAVANI-LAWAND&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="SHRAVANI-LAWAND's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RAFIKSHA&theme=highcontrast&hide_border=true" alt="RAFIKSHA's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="SHRAVANI-LAWAND's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/RAFIKSHA/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/RAFIKSHA/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=RAFIKSHA&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/SHRAVANI-LAWAND/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -1953,8 +1953,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/RAFIKSHA">
-    <img src="https://ghchart.rshah.org/RAFIKSHA" alt="RAFIKSHA's GitHub Contribution Chart">
+<a href="https://github.com/SHRAVANI-LAWAND">
+    <img src="https://ghchart.rshah.org/SHRAVANI-LAWAND" alt="SHRAVANI-LAWAND's GitHub Contribution Chart">
 </a>
 
 
@@ -1965,26 +1965,26 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/RAFIKSHA?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/SHRAVANI-LAWAND?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="SHRAVANI-LAWAND's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/RAFIKSHA?theme=dark" alt="RAFIKSHA's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/SHRAVANI-LAWAND?theme=dark" alt="SHRAVANI-LAWAND's GitHub Stats">
 </details>
 
 <br>
 
-### RAFIKSHA/README.md activity
+### SHRAVANI-LAWAND/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @RAFIKSHA/RAFIKSHA](https://reporoster.com/forks/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA/network/members)-->
+<!-- [![Forkers repo roster for @SHRAVANI-LAWAND/SHRAVANI-LAWAND](https://reporoster.com/forks/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/RAFIKSHA/RAFIKSHA)](https://github.com/RAFIKSHA/RAFIKSHA)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for RAFIKSHA&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for SHRAVANI-LAWAND&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#RAFIKSHA/RAFIKSHA&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=RAFIKSHA/RAFIKSHA&type=Date&theme=dark" />
+  <a href="https://star-history.com/#SHRAVANI-LAWAND/SHRAVANI-LAWAND&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SHRAVANI-LAWAND/SHRAVANI-LAWAND&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -1993,7 +1993,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=RAFIKSHA&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=SHRAVANI-LAWAND&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -2071,7 +2071,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/rafikshah2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/SHRAVANI-LAWANDh2272?border=0&radius=20"/>
 </p>
 
 
@@ -2467,8 +2467,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:SHRAVANI-LAWANDh3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=SHRAVANI-LAWANDh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -2487,7 +2487,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [SHRAVANI-LAWAND](https://github.com/SHRAVANI-LAWAND) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
@@ -2513,7 +2513,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [SHRAVANI-LAWAND](https://github.com/SHRAVANI-LAWAND) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
@@ -2596,8 +2596,8 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:rafikshah3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=rafikshah3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:SHRAVANI-LAWANDh3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=SHRAVANI-LAWANDh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -2616,7 +2616,7 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 <h3>
 <div align="center">
   
-⭐️ From [RAFIKSHA](https://github.com/RAFIKSHA) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [SHRAVANI-LAWAND](https://github.com/SHRAVANI-LAWAND) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
