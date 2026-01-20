@@ -20,7 +20,7 @@
     
     <td align="center">
       <a href="https://www.linkedin.com/in/shravani-lawand-a70370285/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
+        <img src="https://img.shields.io/badge/LinkedIn-Shravani%20Lawand-blue?style=for-the-badge&logo=linkedin" alt="SHRAVANI LAWAND">
       </a>
     </td>
    <td align="center">
