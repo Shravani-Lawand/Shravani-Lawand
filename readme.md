@@ -28,7 +28,7 @@
     <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSHRAVANI-LAWAND&subtitle=SHRAVANI-LAWAND&size=square" alt="SHRAVANI-LAWAND">
   </a>
 </td>
-
+</div>
   </tr>
 </table>
 
