@@ -1,547 +1,103 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
 
+<h1 align="center">Hi 👋 I'm SHRAVANI LAWAND</h1>
 
+<h3 align="center">Computer Engineer | Full Stack Developer | Cloud Engineer | AI Engineer</h3>
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm SHRAVANI-LAWAND</h1>
+---
+
+## 🚀 About Me
+
+I am a passionate **Computer Engineer** focused on building scalable applications, AI-powered systems, and cloud-native solutions.  
+
+I enjoy solving complex problems, working with modern technologies, and continuously learning to stay ahead in the tech world.
+
+- 💻 Full Stack Development  
+- ☁️ Cloud & DevOps  
+- 🤖 Artificial Intelligence & Machine Learning  
+- 📦 Scalable System Design  
+- 🚀 Always learning & building  
+
+---
+
+## 🛠 Tech Stack
+
+### 💻 Frontend
+- Next.js  
+- React  
+- TypeScript  
+- JavaScript  
+- Tailwind CSS  
+- HTML5  
+- CSS3  
+
+### ⚙️ Backend
+- Node.js  
+- Express.js  
+- Django  
+- Flask  
+
+### 🗄 Databases
+- MySQL  
+- PostgreSQL  
+- MongoDB  
+- Neo4j  
+
+### ☁️ Cloud & DevOps
+- Docker  
+- Kubernetes  
+- Helm  
+- Terraform  
+- Azure  
+- AWS  
+- Google Cloud Platform  
+
+### 🤖 AI / ML
+- Python  
+- NumPy  
+- Pandas  
+- TensorFlow  
+- PyTorch  
+- LangChain  
+- LlamaIndex  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=SHRAVANI-LAWAND&show_icons=true&theme=highcontrast&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRAVANI-LAWAND&layout=compact&theme=highcontrast&hide_border=true"/>
 </p>
+
+---
+
+## 🌟 Featured Projects
+
+- 🔹 **fast-gemini-nano** – Lightweight AI integration project  
+- 🔹 **Weather-3d-ai-app** – 3D AI-powered weather application  
+- 🔹 **moviedjangoai** – AI-powered movie recommendation system  
+- 🔹 **speech-to-text** – Speech recognition system  
+
+---
+
+## 📈 Contribution Graph
 
 <p align="center">
-  Computer Engineer | Learner | Coder
+  <img src="https://ghchart.rshah.org/SHRAVANI-LAWAND" />
 </p>
 
-<div align="center">
-<table>
-  <tr>
-    
-    
-    
-   <td align="center">
-  <a href="https://github.com/SHRAVANI-LAWAND" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FSHRAVANI-LAWAND&subtitle=SHRAVANI-LAWAND&size=square" alt="SHRAVANI-LAWAND">
-  </a>
-</td>
-</div>
-  </tr>
-</table>
+---
 
+## 📬 Connect With Me
 
-<br>
+- GitHub: https://github.com/SHRAVANI-LAWAND  
 
+---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SHRAVANI-LAWAND&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
-</p>
+<h3 align="center">✨ Building. Learning. Growing. ✨</h3>
 
-
-
-<h2 align="center">🚀 About Me</h2>
-
-As a versatile Computer Engineer, With a proven track record of driving innovation, I am committed to leveraging advanced AI solutions to boost productivity and foster creative problem-solving in technology. My passion for pushing the boundaries of modern technology equips me to deliver exceptional results in complex and dynamic environments.
-
-<h3 align="center">Git Stats</h3>
-<div align="center">
- <img src="https://streak-stats.demolab.com?user=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
-
-<br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SHRAVANI-LAWAND&custom_title=SHRAVANI-LAWAND's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
-
-<br>
-<div align="center">
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHRAVANI-LAWAND&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Repos Per Language">
-    </td>
-    <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="Most Commit Language">
-    </td>
-  </tr>
-</table>
-
-</div>
-
-<img src="https://github-readme-stats.vercel.app/api?username=SHRAVANI-LAWAND&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="SHRAVANI-LAWAND's GitHub stats">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHRAVANI-LAWAND&theme=highcontrast&hide_border=true" alt="SHRAVANI-LAWAND's Profile Details">
-
-### Top Repositories
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/SHRAVANI-LAWAND/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SHRAVANI-LAWAND/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/SHRAVANI-LAWAND/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/SHRAVANI-LAWAND/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=SHRAVANI-LAWAND&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-### GitHub Contribution Chart
-<a href="https://github.com/SHRAVANI-LAWAND">
-    <img src="https://ghchart.rshah.org/SHRAVANI-LAWAND" alt="SHRAVANI-LAWAND's GitHub Contribution Chart">
-</a>
-
-
-
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;Git Stats Summary&nbsp;&nbsp;
-    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
-  </summary>
-  
-  <img src="https://myreadme.vercel.app/api/embed/SHRAVANI-LAWAND?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="SHRAVANI-LAWAND's GitHub Stats">
-
-  <img src="https://github-readme-bento.vercel.app/stats/SHRAVANI-LAWAND?theme=dark" alt="SHRAVANI-LAWAND's GitHub Stats">
-</details>
-
-<br>
-
-### SHRAVANI-LAWAND/README.md activity
-<img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
-
-<!-- [![Forkers repo roster for @SHRAVANI-LAWAND/SHRAVANI-LAWAND](https://reporoster.com/forks/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND/network/members)-->
-
-<!-- [![Repography](https://reporoster.com/stars/dark/SHRAVANI-LAWAND/SHRAVANI-LAWAND)](https://github.com/SHRAVANI-LAWAND/SHRAVANI-LAWAND)-->
-
-<details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for SHRAVANI-LAWAND&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
-
-  <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#SHRAVANI-LAWAND/SHRAVANI-LAWAND&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=SHRAVANI-LAWAND/SHRAVANI-LAWAND&type=Date&theme=dark" />
-  </a>
-</details>
-
-
-<br>
-<details>
-  <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=SHRAVANI-LAWAND&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
-</details>
-
-
-
-
-</div>
-
-<h2 align="center">Socials Stats</h2>
-<div align="center">
-  <div align="center">
-    <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-      <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
-    </a>
-    <h3>
-      <a href="https://www.instagram.com/mr_.rafik/" target="_blank" style="color: #e4405f; text-decoration: none; font-weight: bold;">
-        Follow Me on Instagram
-      </a>
-    </h3>
-  </div>
-  <table>
-    <tr>
-      <td align="center" style="border: none;">
-        <div>
-          <img src="https://img.shields.io/badge/Instagram-101%20posts-e4405f?style=flat-square&logo=instagram" alt="Instagram Posts">
-          <img src="https://img.shields.io/badge/Instagram-1865%20followers-e4405f?style=flat-square&logo=instagram" alt="Instagram Followers">
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<div align="center">
-
-
-<div align="center">
-
-<div align="center">
-<!-- 
-  <img src="https://img.icons8.com/color/48/000000/discord-logo.png" alt="Discord Logo"/>
-</div>
-  <h3>
-    <a href="https://discord.gg/YdDyV6QqEN">
-      Join Our Discord Community
-    </a>
-  </h3>-->
-
-</div>
-
-<table>
-  <tr>
-    <!-- Discord Widget Column -->
-    <!-- <td align="center" style="border: none;">
-      <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
-      </a>
-    </td>-->
-    <!-- Discord Banner Column -->
-   <!--  <td align="center" style="border: none;">
-      <img src="https://discord.com/api/guilds/532904444912861194/widget.png?style=banner3" alt="Discord Banner 3"/>
-    </td>-->
-    <!-- Discord Presence Column -->
-    <!-- <td align="center" style="border: none;">
-      <a href="https://discord.com/users/424279823817375746">
-        <img src="https://lanyard.cnrad.dev/api/424279823817375746" alt="Discord Presence">
-      </a>
-    </td>
-  </tr>
-</table>
---> 
-
-
-<h3 align="center">YouTube Stats</h3>
-
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
-
-<h3 align="center">Leetcode Stats</h3>
-<p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/SHRAVANI-LAWANDh2272?border=0&radius=20"/>
-</p>
-
-
-<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
-
-<h3 align="center">Web Development</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="8" align="center" style="color: white;">Frontend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <a href="https://nextjs.org/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
-        </a>
-        <br>Next.js
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://tailwindcss.com/" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
-        </a>
-        <br>Tailwind CSS
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://reactjs.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50"/>
-        </a>
-        <br>React
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://www.typescriptlang.org/" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
-        </a>
-        <br>TypeScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
-          <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
-        </a>
-        <br>JavaScript
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://jquery.com/" style="color: white;">
-          <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
-        </a>
-        <br>jQuery
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
-        </a>
-        <br>HTML
-      </td>
-      <td align="center" style="border: none;">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="color: white;">
-          <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50" alt="CSS"/>
-        </a>
-        <br>CSS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Backend</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="50" height="50" alt="Node.js"/><br>Node.js
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" width="50" height="50" alt="Django"/><br>Django
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=flask" width="50" height="50" alt="Flask"/><br>Flask
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=express" width="50" height="50"/><br>Express
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Database</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50"/><br>MySQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50"/><br>MongoDB
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Cloud Computing & DevOps</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="4" align="center" style="color: white;">Containerization & Orchestration</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://helm.sh/img/helm.svg" alt="Helm" width="50" height="50"/><br>Helm
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skaffold.dev/images/skaffold-logo-white.png" alt="Skaffold" width="50" height="50"/><br>Skaffold
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Cloud Providers</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50"/><br>Azure
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=gcp" alt="GCP" width="50" height="50"/><br>GCP
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="50" height="50"/><br>AWS
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Infrastructure as Code</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" width="50" height="50"/><br>Terraform
-      </td>
-        <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=ansible" alt="Terraform" width="50" height="50"/><br>Ansible
-       </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">AI/ML & Data Science</h3>
-<div align="center">
-  <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="5" align="center" style="color: white;">Languages & Libraries</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50"/><br>Python
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" alt="NumPy" width="50" height="50"/><br>NumPy
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://github.com/valohai/ml-logos/blob/master/pandas.svg" alt="Pandas" width="80" height="50"/><br>Pandas
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="50" height="50"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Tensorflow.gif" alt="TensorFlow" width="80" height="70" /><br>TensorFlow
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50"/><br>PyTorch
-      </td>
-    </tr>
-  </tbody>
- </table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="3" align="center" style="color: white;">Frameworks & Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/LangChain_logo.png" alt="LangChain" width="80" height="50"/><br>LangChain
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://ollama.ai/public/ollama.png" alt="Ollama" width="50" height="60"/><br>Ollama
-      </td>
-  <td align="center" style="border: none;">
-        <img src="https://github.com/run-llama/logos/blob/main/LlamaLogo%20Square.png" alt="LlamaIndex" width="50" height="50"/><br>LlamaIndex
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-
-<h3 align="center"> AI Tools & Prompt Engineering</h3>
-<div align="center">
- <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="6" align="center" style="color: white;">AI Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50" alt="ChatGPT"/><br>ChatGPT
-      </td>
-       <td align="center" style="border: none;">
-        <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/claude-ai-icon.png" width="50" height="50" alt="Claude (Anthropic)"/><br>Claude (Anthropic)
-      </td>
-      <td align="center" style="border: none;">
-<!--         <img src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Google_Gemini_logo.svg" width="50" height="50" alt="Google Gemini"/> -->
-        <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/Gemini.gif" alt="Gemini" width="80" height="80" /><br>Google Gemini
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="50" height="50" alt="Hugging Face"/><br>Hugging Face
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Meta-Logo.png" width="80" height="50" alt="Meta Llama"/><br>Meta Llama
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://asset.brandfetch.io/idfDTLvPCK/idbbhgStc3.svg" width="80" height="50" alt="Cohere"/><br>Cohere
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<h3 align="center">Streaming & Video Editing</h3>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th colspan="2" align="center" style="color: white;">Streaming Platforms</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://cdn.worldvectorlogo.com/logos/twitch-logo-2019.svg" width="50" height="50" alt="Twitch"/><br>Twitch
-      </td>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" width="50" height="50" alt="YouTube"/><br>YouTube
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
-
-<div align="center">
-<table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
-  <thead>
-    <tr>
-      <th align="center" style="color: white;">Streaming Tools</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td align="center" style="border: none;">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/d/d3/OBS_Studio_Logo.svg" width="50" height="50" alt="OBS"/><br>OBS
-      </td>
-    </tr>
-  </tbody><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
-
-
-
-
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer" width="100%">
